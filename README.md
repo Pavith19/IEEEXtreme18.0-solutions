@@ -1,7 +1,7 @@
-[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python)](https://github.com/Pavith19/IEEEXtreme17.0-solutions)
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python)](https://github.com/Pavith19/IEEEXtreme18.0-solutions)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/IEEEXtreme18.0-solutions)](https://github.com/Pavith19/IEEEXtreme18.0-solutions/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/IEEEXtreme17.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/archive/main.zip)
-![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme17.0-solutions.svg?cache=remove)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/IEEEXtreme18.0-solutions)](https://github.com/Pavith19/IEEEXtreme17.0-solutions/archive/main.zip)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme18.0-solutions.svg?cache=remove)
 
 <p align="center">
   <img src="Assets/ieeextreme_logo_general.png" height=280 width=581 alt="IEEEXtreme 16.0  banner">
