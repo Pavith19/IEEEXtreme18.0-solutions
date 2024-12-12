@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def costo_optimo(A, l, r):
     if r - l == 0:
         return A[r]
