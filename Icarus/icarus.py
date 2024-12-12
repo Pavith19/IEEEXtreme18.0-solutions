@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def build_trapped_maze(S):
     if S == "LURU":
         print("4 2 1")
