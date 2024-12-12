@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def überprüfe_anordnung(reihe1, reihe2, A, B, N):
 
     for i in range(N-1):
