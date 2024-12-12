@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def foo_bar_baz(qux, quux):
     if qux == 0:
         return 0, 0
