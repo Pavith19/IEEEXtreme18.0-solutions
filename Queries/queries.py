@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def solve(N, Q, P, queries):
     # Initialize array A with zeros
     A = [0] * N
