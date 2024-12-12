@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def transformar_A_sequenz(eingaben, länge, anzahl):
     oben_einträge = []
     rechts_einträge = []
