@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 import heapq
 
 def maximize_number(N, K):
