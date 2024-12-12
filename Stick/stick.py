@@ -1,4 +1,7 @@
-
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def calculate_union_area(N, K, L):
     single_square_area = (2 * L) ** 2
     
