@@ -24,7 +24,6 @@ Welcome to the IEEEXtreme 18.0 Solutions Repository! This repository contains my
 ## Repository Structure
 
 Each problem folder typically contains:
-- A PDF file with the problem statement
 - Solution file
 
 ## Disclaimer
@@ -33,7 +32,7 @@ These solutions are my own work and were created for educational purposes. They 
 
 ## Contributing
 
-We welcome contributions to enhance this collection of IEEEXtreme 16.0 solutions:
+We welcome contributions to enhance this collection of IEEEXtreme 18.0 solutions:
 
 - **Add New Solutions**: Submit solutions for problems not yet covered.
 - **Improve Existing Solutions**: Optimize or clarify current solutions.
