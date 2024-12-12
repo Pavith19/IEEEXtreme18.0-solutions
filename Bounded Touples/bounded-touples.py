@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 from typing import List, Tuple
 from dataclasses import dataclass
 
