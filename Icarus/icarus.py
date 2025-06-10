@@ -48,3 +48,8 @@ def build_trapped_maze(S):
 
 S = input().strip() 
 build_trapped_maze(S)
+
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
